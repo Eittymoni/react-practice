@@ -1,0 +1,44 @@
+
+#what{
+    padding-top: 100px;
+}
+.what-text{
+    padding: 0 190px;
+    text-align: center;
+}
+.what-text h3{
+    
+    font-size: 30px;
+}
+.what-text p{
+    
+    font-weight: 400px;
+}
+.what-items{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 100px;
+    text-align: left;
+}
+.items-box{
+    height: 350px;
+    width: 250px;
+    border-radius: 5px;
+    box-shadow: 10px 10px 40px hsl(240, 2%, 88%);;
+    margin-left:1% ;
+    margin-right: 1%;
+    padding: 10px;
+}
+.items-box img{
+    padding-top: 5px;
+}
+.items-box h3{
+    
+    font-size: 15px;
+    padding-top: 5px;
+}
+.items-box p{
+    
+    font-weight: 400px;
+    padding-top: 5px;
+}

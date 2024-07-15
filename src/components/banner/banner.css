@@ -1,0 +1,53 @@
+#banner{
+    background-color: #FFF8F3;
+    padding: 200px 0;
+    position: relative;
+}
+.banner-text h2{
+    
+    font-size: 45px;
+    font-weight: bold;
+}
+.banner-text h3{
+ 
+    font-size: 85px;
+    font-weight: bold;
+}
+.banner-text p{
+    font-size: 18px;
+    font-weight: 400px;
+    width: 585px;
+}
+.banner-button{
+    padding-top: 30px;
+    display: flex;
+}
+
+.banner-button a{
+    margin-right: 11px;
+    padding: 18px 17px;
+    border-radius: 5px;
+    font-size: 18px;
+    font-weight: 400px;
+    border: 2px solid #FD6E0A;
+    transition: 0.5s;
+    color: #FD6E0A;
+
+}
+
+.banner-button a:hover{
+    background-color: #FD6E0A;
+    border: 2px solid transparent;
+    color: #FFF8F3;
+}
+.man{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    z-index: 1;
+}
+.sun{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}

@@ -1,0 +1,90 @@
+#summary{
+    padding-top: 130px;
+}
+
+.summary-text{
+    text-align: center;
+}
+.summary-text h3{
+    
+    font-size: 30px;
+    padding-bottom: 50px;
+}
+.summary-items{
+    display: flex;
+}
+.education{
+    padding: 10px;
+    width: 50%;
+    height: 550px;
+}
+.education h3{
+    padding-top: 10px;
+    
+    font-size: 25px;
+}
+.education h4{
+    padding-top: 20px;
+    
+    font-size: 20px;
+}
+.education h5{
+  
+    font-size: 15px;
+}
+.education p{
+    
+    font-size: 12px;
+    font-weight: 400px;
+    padding-top: 20px;
+    padding-right: 150px;
+}
+hr{
+    margin-top: 20px;
+}
+.experiance{
+    padding: 10px;
+    width: 50%;
+    height: 550px;
+
+}
+.experiance h3{
+    padding-top: 10px;
+   
+    font-size: 25px;
+}
+.experiance h4{
+    padding-top: 20px;
+    
+    font-size: 20px;
+}
+.experiance h5{
+    
+    font-size: 15px;
+}
+.experiance p{
+   
+    font-size: 12px;
+    font-weight: 400px;
+    padding-top: 20px;
+    padding-right: 150px;
+}
+hr{
+    margin-top: 20px;
+}
+.sum-button{
+    text-align: center;
+    
+}
+.sum-button a{
+    padding: 18px 17px;
+    border-radius: 5px;
+    font-family: "Open Sans", sans-serif;
+    font-size: 18px;
+    font-weight: 400px;
+    background-color: #FD6E0A;
+    color: white;
+}
+.sum-button i{
+    padding-right: 7px;
+}

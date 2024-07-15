@@ -1,0 +1,66 @@
+
+#footer{
+    padding-top: 100px;
+}
+.footer-item{
+    padding-top: 100px;
+    background-color: #FFF8F3;
+    display: flex;
+}
+.f-connect{
+    width: 50%;
+    padding-left: 100px;
+}
+.f-connect h3{
+ 
+    font-size: 30px;
+}
+.f-connect p{
+    
+    font-weight: 400px;
+}
+textarea{
+    resize: none;
+}
+.icon{
+    display: flex;
+}
+.fb{
+    padding: 20px;
+}
+.twt{
+    padding: 20px;
+}
+.ins{
+    padding: 20px;
+}
+.f-message{
+    width: 50%;
+}
+.f-message h3{
+   
+    font-size: 30px;
+    padding-left: 50px;
+}
+.f-message form{
+    padding-left: 50px ;
+    
+    font-size: 20px;
+    
+}
+input{
+    padding-bottom: 20px;
+}
+.submit-button{
+ text-align: left;
+ padding-left: 50px;
+}
+.submit-button a{
+    padding: 10px 15px;
+    border-radius: 5px;
+    
+    font-size: 18px;
+    font-weight: 400px;
+    background-color: #FD6E0A;
+    color: white;
+}
